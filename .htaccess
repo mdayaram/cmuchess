@@ -1,5 +1,0 @@
-DirectoryIndex index.shtml
-Options FollowSymLinks
-Options +Includes
-AddType text/html .shtml
-AddOutputFilter INCLUDES .html .shtml
