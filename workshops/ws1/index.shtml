@@ -1,8 +1,8 @@
-<!--#include virtual="../../inc/header.inc" -->
+<!--#include virtual="/inc/header.inc" -->
 
 <h2 align="center">Workshop 1</h2>
 
-In this page you will find brief descriptions of what went on in the first workshop.  This is not meant to be a replacement for the workshop, but rather a reference.  If you would like a more detailed explanation on topics covered in this page, please contact <a href="../../contact.shtml">Charlie Won</a> with your questions.
+In this page you will find brief descriptions of what went on in the first workshop.  This is not meant to be a replacement for the workshop, but rather a reference.  If you would like a more detailed explanation on topics covered in this page, please contact <a href="/contact.shtml">Charlie Won</a> with your questions.
 <br><br>
 Here are some endgame positions/ideas that were looked at:
 <br><br>
@@ -50,4 +50,4 @@ Sample Solution:<br>
 11. Kg6 Kh8 <br>
 12. Kf7     <br>
 
-<!--#include virtual="../../inc/footer.inc" -->
+<!--#include virtual="/inc/footer.inc" -->
