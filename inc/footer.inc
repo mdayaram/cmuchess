@@ -9,7 +9,7 @@
 <center>
 <table width="215px" cellspacing="3px" cellpadding="0px" border="0px">
 <tr><td valign="top" align="left">
-<iframe src="http://www.andrew.cmu.edu/org/cmu-chess-club/updates.html" name="updates" width="100%" height="100%" frameborder="no" noresize="true" scrolling="no" marginwidth="0px" marginheight="0px"></iframe>
+<iframe src="updates.html" name="updates" width="100%" height="100%" frameborder="no" noresize="true" scrolling="no" marginwidth="0px" marginheight="0px"></iframe>
 </td></tr>
 <tr><td valign="top" align="left">
 <br><br><br>

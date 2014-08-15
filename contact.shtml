@@ -1,4 +1,4 @@
-<!--#include virtual="/org/cmu-chess-club/inc/header.inc" -->
+<!--#include virtual="inc/header.inc" -->
 
 <h3 align="center">Contact</h3>
 
@@ -10,11 +10,11 @@ Below is a list of the Chess Club staff.  If you'd like to keep in touch with th
 <br>
 <b>Treasurer:</b>  <a href="mailto:gkam@andrew.cmu.edu">Gradon Kam</a>
 <br>
-<b>Secretary:</b>  <a href="mailto:mdayaram@andrew.cmu.edu">Reyana Fayyaz</a>
+<b>Secretary:</b>  <a href="mailto:rfayyaz@andrew.cmu.edu">Reyana Fayyaz</a>
 <br>
 <b>Advertising Coordinator:</b>  <a href="mailto:dmgordon@andrew.cmu.edu">Daniel Gordon</a>
 <br>
 <b>Webmaster:</b>  <a href="mailto:mdayaram@andrew.cmu.edu">Manoj Dayaram</a>
 <br>
 
-<!--#include virtual="/org/cmu-chess-club/inc/footer.inc" -->
+<!--#include virtual="inc/footer.inc" -->
