@@ -10,3 +10,6 @@ https://www.andrew.cmu.edu/org/cmu-chess-club/
 But for nostalgic reasons, I saved all the source of my version and decided to host it on my own space:
 
 http://cmuchess.hazasite.com
+
+Note, to host in heroku requires custom build pack to enable SSI:
+https://github.com/khustochka/heroku-buildpack-static.git
