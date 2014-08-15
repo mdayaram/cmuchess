@@ -1,5 +1,5 @@
 CMU Chess Club
-=========
+==============
 
 Website for the CMU Chess Club back when I had first joined it (2007).
 

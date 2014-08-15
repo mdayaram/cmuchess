@@ -1,0 +1,8 @@
+a {cursor: pointer; color: #aa0000; font-family: verdana; font-size: 8pt; font-style: none; text-decoration: none;}
+a:visited {cursor: pointer; color: #660000; font-family: verdana; font-size: 8pt; font-style: none; text-decoration: none;}
+a:active {cursor: pointer; color: #cc0000; font-family: verdana; font-size: 8pt; font-style: none; text-decoration: none;}
+a:hover {cursor: pointer; color: #aa0000; font-family: verdana; font-size: 8pt; font-style: none; text-decoration: underline;}
+
+td {color: #000000; font-family: verdana; font-size: 9pt; font-style:none; text-decoration: none;}
+
+hr {height: 2px; text-align: center; width: 80%; color: #660000; background-color: #660000; border-color: #660000;}

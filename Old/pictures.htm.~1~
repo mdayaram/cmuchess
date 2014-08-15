@@ -1,0 +1,126 @@
+<html>
+<head>
+<style>
+a{text-decoration: none}
+</style>
+
+<style type="text/css">
+/* 
+SviiTrailer 
+*/
+.cheesey{position:absolute;visibility:visible;top:-50px;font-size:10px;font-family:"Trebuchet MS", Verdana, Arial, sans-serif;font-weight:bold;color:#000000;}  
+</style>
+</head>
+<body bgcolor="FFFFCC" onLoad='HappyTrails();'>
+<div align="center">
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> </font> </p>
+  <table width="90%" border="1" align="center">
+    <tr align="center" bgcolor="#66FFCC"> 
+      <td colspan="3" height="28"><font size="5"><b><font size="4"><a name="Spring_04">Spring 
+        2004 </a></font></b></font></td>
+    </tr>
+    <tr> 
+      <td width="10%" align="center" bgcolor="#66CC99"><font size="2">01</font></td>
+      <td width="20%" bgcolor="#CCFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Jan 
+        31 </font></td>
+      <td width="70%" bgcolor="#CCFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="pictures.htm#01">CMU 
+        SCS-DAY Chess Tournament</a></font></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p><font size="5"><b><u><span style='font-family:Verdana'><font size="5"><b><font size="4"><a name="01"></a></font></b></font></span></u></b></font></p>
+  <h1 align=center style='text-align:center'><u><span style='font-family:Verdana'><font size="5"><b></b></font>CMU 
+    SCS-DAY CHESS TOURNAMENT 2004</span></u><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:Verdana'><o:p></o:p></span><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:Verdana'><o:p></o:p></span><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:Verdana'><o:p></o:p></span></h1>
+  <h1 align=center style='text-align:center'><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:Verdana'><o:p><strong>Danforth 
+    Lounge, University Center</strong>, CMU</o:p></span></h1>
+  <h1 align=center style='text-align:center'> <span style="font-family: Verdana; font-size: 14.0pt;">Jan 
+    31, 2004</span><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:Verdana'><o:p></o:p></span></h1>
+  <div align=center> 
+    <table class=MsoNormalTable border=1 cellpadding=0 width="75%"
+ style='width:75.0%;mso-cellspacing:1.5pt'>
+      <tr style='mso-yfti-irow:1'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p align=center style='text-align:center'><img src="pictures/01/Participants.jpg" width="640" height="480"></p>
+          <p align=center style='text-align:center'><b>All participants - picture 
+            compliments of <a href="http://www-2.cs.cmu.edu/%7Eralf/">Ralf Brown</a></b></p>
+          <p align=center style='text-align:center'><img src="pictures/01/group.JPG" width="400" height="300"></p>
+          <p align=center style='text-align:center'><strong>After prize-giving 
+            ceremony. Well Done!! You are all champions!</strong></p>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:2'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p>&nbsp;</p>
+          <p align=center style='text-align:center'><img src="pictures/01/Chess_Games.JPG" width="512" height="384"></p>
+          <p align=center style='text-align:center'><strong>All chess players 
+            in action.</strong></p>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:3'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p>&nbsp;</p>
+          <p align=center style='text-align:center'><img src="pictures/01/Chess_Games2.JPG" width="512" height="384"></p>
+          <p align=center style='text-align:center'><strong>One board is selected 
+            each round to be projected on the screen for audience.</strong></p>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:4'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p align=center style='text-align:center'>&nbsp;</p>
+          <p align=center style='text-align:center'><img src="pictures/01/Chess_Prizes.JPG" width="512" height="384"></p>
+          <p align=center style='text-align:center'><b>Chess prizes solely sponsored 
+            by <a href="http://www.chessclub.com">Internet Chess Club</a></b></p>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:4'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <div align="center"> 
+            <p>&nbsp;</p>
+            <p><img src="pictures/01/organizers.JPG" width="400" height="300"></p>
+            <p><b>Organizers (from left): Hui Lin, Spencer</b></p>
+          </div>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:5'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p align=center style='text-align:center'>&nbsp;</p>
+          <p align=center style='text-align:center'><img src="pictures/01/Champion.JPG" width="400" height="300"></p>
+          <p align=center style='text-align:center'><strong>Ryan Milisits - Champion 
+            of the tournament. <br>
+            He walks away with a 3-year subscription from the Internet Chess Club 
+            and a shirt of his choice.</strong></p>
+        </td>
+      </tr>
+      <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'> 
+        <td style='padding:.75pt .75pt .75pt .75pt'> 
+          <p align=center style='text-align:center'>&nbsp;</p>
+          <p align=center style='text-align:center'><img src="pictures/01/youngest_player.JPG" width="400" height="300"></p>
+          <p align=center style='text-align:center'><strong>Youngest player: Danny 
+            Balter (6 years old)<br>
+            From left: Carol Frieze, Prof Sleator, Danny, Hui Lin, Spencer</strong></p>
+          </td>
+      </tr>
+      <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+        <td style='padding:.75pt .75pt .75pt .75pt'>
+          <div align="center">
+            <p>&nbsp;</p>
+            <p><img src="pictures/01/champ_against3.JPG" width="400" height="300"></p>
+            <p><strong>Champion, Ryan, plays against <br>special guest (Prof Sleator), 
+              first-runner-up and second-runner-up simultaneously.</strong></p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <p>&nbsp;</p>
+  <p>With Special Thanks and Acknowledgement to <a href="http://www-2.cs.cmu.edu/%7Esabhnani/">Maheshkumar</a> 
+    and <a href="http://www-2.cs.cmu.edu/%7Eralf/">Ralf Braun</a> for the pictures. 
+  </p>
+</div>
+</body>
+</html>

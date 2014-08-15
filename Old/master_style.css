@@ -1,0 +1,14 @@
+body{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color:
+#FFFFFF}
+
+a{text-decoration: none}
+
+select, option, textarea, input {
+BORDER-RIGHT: #9DBECD 1px dotted;
+BORDER-TOP: #9DBECD 1px dotted;
+BORDER-BOTTOM: #9DBECD 1px dotted;
+BORDER-LEFT: #9DBECD 1px dotted;
+COLOR: #000000;
+FONT-SIZE: 10px;
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+BACKGROUND-COLOR: #ffffff }option { font-style: normal ; text-decoration: none}
