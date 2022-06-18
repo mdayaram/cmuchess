@@ -1,4 +1,4 @@
-<!--#include virtual="inc/header.inc" -->
+<?php include 'inc/header.inc';?>
 
 <h3 align="center">Tournaments</h3>
 
@@ -72,4 +72,4 @@ Alternate Matches:
 <br>
 
 
-<!--#include virtual="inc/footer.inc" -->
+<?php include 'inc/footer.inc';?>

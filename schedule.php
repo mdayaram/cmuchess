@@ -1,4 +1,4 @@
-<!--#include virtual="inc/header.inc" -->
+<?php include 'inc/header.inc';?>
 
 <h3 align="center">Chess Club Schedule for Spring '07</h3>
 
@@ -42,4 +42,4 @@ UC - Caffee
 
 
 
-<!--#include virtual="inc/footer.inc" -->
+<?php include 'inc/footer.inc';?>

@@ -1,4 +1,4 @@
-<!--#include virtual="inc/header.inc" -->
+<?php include 'inc/header.inc';?>
 
 <h3 align="center">Contact</h3>
 
@@ -17,4 +17,4 @@ Below is a list of the Chess Club staff.  If you'd like to keep in touch with th
 <b>Webmaster:</b>  <a href="mailto:mdayaram@andrew.cmu.edu">Manoj Dayaram</a>
 <br>
 
-<!--#include virtual="inc/footer.inc" -->
+<?php include 'inc/footer.inc';?>

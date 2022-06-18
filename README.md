@@ -11,5 +11,3 @@ But for nostalgic reasons, I saved all the source of my version and decided to h
 
 http://cmuchess.hazasite.com
 
-Note, to host in heroku requires custom build pack to enable SSI:
-https://github.com/khustochka/heroku-buildpack-static.git
